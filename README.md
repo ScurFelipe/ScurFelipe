@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   Hey, I'm Scur!</h1>
 
-<p><em>Software Developer, at <a href="https://www.linkedin.com/company/juriscorrespondente/"> Juris </a> <img
+<p><em>Software Developer <img
       src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 ### &#x1f4c8; GitHub Stats
